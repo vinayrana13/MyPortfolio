@@ -26,6 +26,18 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 |Version Control|Git, GitHub Desktop|
 |Build/CI tools| Jenkins, Helios|
 
+# Professional Experience
+## Cognizant, Toronto ON
+*	Developed and executed test cases based on business requirements, ensuring alignment with project goals.
+*	Automated API test cases using Postman and ReadyAPI tools for efficient testing.
+*	Integrated smoke and regression test cases into the Helios pipeline, streamlining test execution.
+*	Built an automation framework from scratch using Playwright and TypeScript, improving testing efficiency.
+*	Maintained and enhanced an existing hybrid framework based on evolving project needs.
+*	Integrated the automation framework with QTest to minimize manual effort in creating test cases and updating results.
+*	Configured parallel test execution to reduce testing time and expedite test data generation.
+*	Collaborated with the production support team during deployments and conducted PIV testing to ensure smooth releases.
+
+
 ## Demo
 
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
