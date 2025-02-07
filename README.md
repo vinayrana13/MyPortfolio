@@ -1,6 +1,4 @@
 # Vinay Rana
-* vinayrana13@ymail.com
-* 437-987-2280
 I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on developing multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Rest Assured.
 *  Proficient in multiple testing frameworks, including Java BDD Cucumber, Java Selenium Hybrid, Playwright (TypeScript & JavaScript).
 *	Experienced in developing frameworks from scratch, developing automation test scripts and debugging to fix errors and bugs in the code.
