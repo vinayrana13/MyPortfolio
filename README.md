@@ -1,4 +1,4 @@
-# Vinay Rana
+# Vinay Rana - vinayrana13@ymail.com (437)-987-2280
 I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on developing multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Rest Assured.
 *  Proficient in multiple testing frameworks, including Java BDD Cucumber, Java Selenium Hybrid, Playwright (TypeScript & JavaScript).
 *	Experienced in developing frameworks from scratch, developing automation test scripts and debugging to fix errors and bugs in the code.
@@ -7,15 +7,6 @@ I am a QA Automation Engineer with 4 years of experience in Automation testing a
 *	In-depth knowledge of building frameworks, including data-driven, hybrid, and keyword-driven frameworks with Selenium and Playwright.
 *	Expertise in creating test strategies, plans, scenarios, cases, scripts, specifications, test data, and traceability matrices aligned with business requirements.
 
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
-
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 # Technical Skills:
 |Test Automation tools    |            Selenium, Cucumber, JUnit, TestNG, Playwright, Maven, Java, Core Java|
 |----------|-------------|
