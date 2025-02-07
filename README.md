@@ -37,6 +37,15 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 *	Configured parallel test execution to reduce testing time and expedite test data generation.
 *	Collaborated with the production support team during deployments and conducted PIV testing to ensure smooth releases.
 
+## CIBC, Toronto ON
+*	Actively engaged in testing in-house applications, ensuring seamless functionality and performance.
+*	Collaborated closely with the development team to comprehend the recent enhancements made to the existing application.
+*	Compiled detailed reports post-testing and effectively communicated findings with relevant stakeholders.
+*	Created and integrated macros into the reflection workspace, streamlining daily tasks and minimizing manual effort.
+*	Delivered training sessions and cross-trained team members, empowering them to conduct testing activities for routine processes.
+*	Accurately and efficiently process and fulfill retail and non-credit customer requests, while ensuring compliance with established practices, procedures, and policies to meet Service Level Agreements.
+
+
 
 ## Demo
 
