@@ -8,13 +8,7 @@ I am a QA Automation Engineer with 4 years of experience in Automation testing a
 *	Expertise in creating test strategies, plans, scenarios, cases, scripts, specifications, test data, and traceability matrices aligned with business requirements.
 
 
-<p align="left" width="100%">
-    <img width="33%" src="avatar-1.png"> 
-</p>
-  
-<p align="left">
-  ![Alt text](avatar-1.png)
-</p>
+
 # Technical Skills:
 |Test Automation tools    |            Selenium, Cucumber, JUnit, TestNG, Playwright, Maven, Java, Core Java|
 |----------|-------------|
