@@ -1,5 +1,5 @@
 # Vinay Rana
-I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Resu Assured.
+I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on developing multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Rest Assured.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
