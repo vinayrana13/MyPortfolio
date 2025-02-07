@@ -9,11 +9,14 @@ I am a QA Automation Engineer with 4 years of experience in Automation testing a
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 # Technical Skills:
-|----------|-------------|
-
 |Test Automation tools    |            Selenium, Cucumber, JUnit, TestNG, Playwright, Maven, Java, Core Java|
+|----------|-------------|
 |Defect Tracking  |    Jira, QTest  |
 |  Language   |  Java, JavaScript, Typescript, Groovy, C++  | 
+|Testing Methodologies|Agile – SCRUM, Waterfall and Kanban |
+|Operating Systems|Windows and MacOS |
+|Version Control|Git, GitHub Desktop|
+|Build/CI tools| Jenkins, Helios|
 
 ## Demo
 
