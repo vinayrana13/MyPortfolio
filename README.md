@@ -1,11 +1,11 @@
 # Vinay Rana
 I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on developing multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Rest Assured.
 *  Proficient in multiple testing frameworks, including Java BDD Cucumber, Java Selenium Hybrid, Playwright (TypeScript & JavaScript).
-•	Experienced in developing frameworks from scratch, developing automation test scripts and debugging to fix errors and bugs in the code.
-•	Adept in various testing types, including unit, functional, integration, regression, backend, and PIV testing.
-•	Extensive experience with automation tools such as Selenium and Playwright.
-•	In-depth knowledge of building frameworks, including data-driven, hybrid, and keyword-driven frameworks with Selenium and Playwright.
-•	Expertise in creating test strategies, plans, scenarios, cases, scripts, specifications, test data, and traceability matrices aligned with business requirements.
+*	Experienced in developing frameworks from scratch, developing automation test scripts and debugging to fix errors and bugs in the code.
+*	Adept in various testing types, including unit, functional, integration, regression, backend, and PIV testing.
+*	Extensive experience with automation tools such as Selenium and Playwright.
+*	In-depth knowledge of building frameworks, including data-driven, hybrid, and keyword-driven frameworks with Selenium and Playwright.
+*	Expertise in creating test strategies, plans, scenarios, cases, scripts, specifications, test data, and traceability matrices aligned with business requirements.
 
 
 
