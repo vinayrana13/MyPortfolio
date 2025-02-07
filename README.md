@@ -6,9 +6,9 @@ I am a QA Automation Engineer with 4 years of experience in Automation testing a
 *	Extensive experience with automation tools such as Selenium and Playwright.
 *	In-depth knowledge of building frameworks, including data-driven, hybrid, and keyword-driven frameworks with Selenium and Playwright.
 *	Expertise in creating test strategies, plans, scenarios, cases, scripts, specifications, test data, and traceability matrices aligned with business requirements.
-
+<p align="left">
   ![Alt text](avatar-1.png)
-
+</p>
 # Technical Skills:
 |Test Automation tools    |            Selenium, Cucumber, JUnit, TestNG, Playwright, Maven, Java, Core Java|
 |----------|-------------|
