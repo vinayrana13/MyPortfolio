@@ -1,4 +1,5 @@
-# vCard - Personal portfolio
+# Vinay Rana
+I am a QA Automation Engineer with 4 years of experience in Automation testing and strong knowledge on multiple tetsing frameworks like Java BDD Cucumber, Playwright Typescript/Javascript, Resu Assured.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
